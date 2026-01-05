@@ -1,0 +1,378 @@
+[
+    [
+        "A05_FS10",
+        [
+            "H01",
+            "H02"
+        ],
+        "FS10",
+        {
+            "Step-1": [
+                {
+                    "Content": "1. The concentration of microplastics may have exceeded the density of plankton by tenfold, disrupting the energy input of the base food chain. This challenge arises from the warning in the scenario that \"water samples still show an alarming amount of plastic particles.\"  ",
+                    "Category": "Environment",
+                    "Originality": 0,
+                    "Elaboration": 1
+                },
+                {
+                    "Content": "2. Subsurface robotic collectors may miss low-velocity eddy zones, creating data gaps and masking local ecological collapse points. This is directly related to the scenario's mention that \"after experimenting with several collection methods,\" weekly weighing is still required, implying sampling limitations.  ",
+                    "Category": "Technology",
+                    "Originality": 1,
+                    "Elaboration": 1
+                },
+                {
+                    "Content": "3. The plastic-to-fuel conversion system may emit nanoscale black carbon particles, which could exacerbate imbalances in ocean surface heat absorption. This challenge stems from the scenario emphasizing \"eliminating the need to return to shore for disposal\" without addressing potential secondary emissions.  ",
+                    "Category": "Technology",
+                    "Originality": 0,
+                    "Elaboration": 1
+                },
+                {
+                    "Content": "4. Endangered species in the northwest islands may face unknown toxicological effects from ingesting micro-fragments of plastics broken down by lasers. The scenario mentions that laser technology \"can dissolve pollutants\" but does not evaluate the byproducts of fragmentation.  ",
+                    "Category": "Environment",
+                    "Originality": 0,
+                    "Elaboration": 1
+                },
+                {
+                    "Content": "5. Adjustments to eco-tourism routes around floating laboratories may transfer visitor pressure to other more fragile reefs. This challenge is directly related to the scenario's note that routes were \"altered to reduce impact\" but without ensuring overall pressure reduction.  ",
+                    "Category": "Recreation",
+                    "Originality": 0,
+                    "Elaboration": 1
+                },
+                {
+                    "Content": "6. Legal exemptions for manufacturers on both sides of the Pacific may cause Hawaiian regional governance to operate in isolation. This challenge is closely related to the scenario's statement that \"environmental regulations have historically been weak or disregarded.\"  ",
+                    "Category": "Law & Justice",
+                    "Originality": 0,
+                    "Elaboration": 1
+                },
+                {
+                    "Content": "7. The efficiency of the plastic-to-diesel system may suddenly decline due to sea spray corrosion, forcing laboratories to rely on land-based resupply. This challenge is implied in the scenario mentioning \"harvesting tons of plastic\" without considering long-term durability.  ",
+                    "Category": "Technology",
+                    "Originality": 0,
+                    "Elaboration": 1
+                },
+                {
+                    "Content": "8. Data protocols among the network of floating labs may be incompatible, hindering multinational collaboration in compiling a comprehensive microplastic hotspot map. This challenge is directly related to the scenario emphasizing \"dividing responsibilities among agencies\" without a unified standard.",
+                    "Category": "Communication",
+                    "Originality": 2,
+                    "Elaboration": 1
+                },
+                {
+                    "Score Summary": {
+                        "Fluency": 8,
+                        "Flexibility": 5,
+                        "Elaboration": 8,
+                        "Originality": 3,
+                        "Overall": 24
+                    }
+                }
+            ],
+            "Step-2": [
+                {
+                    "Content": "Challenge ID: 1. In 2035, in the waters surrounding the Hawaiian Islands, when microplastic concentrations may have exceeded the density of plankton tenfold, threatening the energy input at the base of the food chain, how can we reduce the overwhelming proportion of microplastics at the bottom of the food chain to restore energy flow in the Pacific ecosystem and protect the future of endangered species?  \nTime: 2035\nLocation: Waters surrounding the Hawaiian Islands\nTheme: Microplastic Management and Ecological Restoration",
+                    "Condition Phrase": 2,
+                    "Stem & KVP": 3,
+                    "Purpose": 1,
+                    "FS Parameters": 2,
+                    "Focus": 6,
+                    "Adequacy": 8,
+                    "Overall": 22
+                }
+            ],
+            "Step-3": [
+                {
+                    "Content": "1. The Ola Kai project chemistry team will deploy glycosylated nanosponges, dispersing 2 tons within a 20 km radius of the Ola Kai mooring point by August 2035. Subsurface robots will recover the flocs and recycle them through the onboard plastic-to-diesel system, directly reducing microplastic ingestion by plankton, lowering the proportion of plastics at the base of the food chain, restoring energy flow, and protecting endangered species.  ",
+                    "Category": "Technology",
+                    "Originality": 0,
+                    "Elaboration": 2
+                },
+                {
+                    "Content": "2. Google X Lab and Hawaiian community divers will run a crowdsourced \"photoacoustic unmanned vessel + AR snorkeling goggles\" collection program across the northwest islands by December 2035. Unmanned vessels will map microplastic clouds in real-time using laser sonar, while AR glasses guide divers to precise retrieval points, clearing high-density fragments weekly to reduce microplastic accumulation at the base of the food chain and preserve Pacific ecosystem energy balance.  ",
+                    "Category": "Technology",
+                    "Originality": 0,
+                    "Elaboration": 2
+                },
+                {
+                    "Content": "3. NOAA and Hawaiian Electric will pilot a 2-nautical-mile-diameter \"bubble curtain + photocatalytic net\" system north of Kaua'i by October 2035. Wave-driven pumps will concentrate microplastics, which are then broken down by photocatalytic nets into short-chain acids absorbable by phytoplankton, reducing microplastic dominance on plankton and restoring baseline energy input.  ",
+                    "Category": "Technology",
+                    "Originality": 0,
+                    "Elaboration": 2
+                },
+                {
+                    "Content": "4. SpaceX and a local high school team will launch the CubeSat constellation \"KiloEye\" by July 2035. Weekly scans of the 137 Hawaiian Islands will use hyperspectral data to direct Ola Kai drones for targeted microplastic removal, lowering the risk of plankton mis-ingestion at the source and ensuring Pacific ecosystem energy flow is rebalanced.  ",
+                    "Invalid": "Duplicate — The solution is too similar to another YES solution"
+                },
+                {
+                    "Content": "5. Japan's SpiraNova and the University of Hawai'i will plant 300 \"biopolymer-coated kelp ropes\" off the west coast of the Big Island in Q3 2035. Kelp leaves will adsorb microplastics, and harvested ropes will be processed into high-value composites, directly removing plastics at the base of the food chain and generating revenue while protecting endangered species’ habitats.  ",
+                    "Category": "Technology",
+                    "Originality": 2,
+                    "Elaboration": 2
+                },
+                {
+                    "Content": "6. The Ola Kai project biology team will release living blue-green algae “Plastic Sentinel” strains in a 500-hectare demonstration area off the northwest reef of the main Hawaiian Island by November 2035. These algae continuously secrete degrading enzymes to break down 0.1–1 mm microplastics, reducing plankton ingestion, restoring baseline energy input, and protecting the Pacific ecosystem.  ",
+                    "Category": "Technology",
+                    "Originality": 2,
+                    "Elaboration": 2
+                },
+                {
+                    "Content": "7. MantaSync and the University of Hawai'i will deploy five “body-mounted” manta ray filtration units along the Maui–Ni’ihau route by September 2035. These units capture microplastics in real-time during swimming and ferment them into manta ray body oils. Due to their large feeding area, they significantly dilute plastics at the base of the food chain, reducing pollution at entry points.  ",
+                    "Category": "Technology",
+                    "Originality": 2,
+                    "Elaboration": 2
+                },
+                {
+                    "Content": "8. A local cruise company and the state government will retrofit the first ferry deck in Honolulu Harbor into a “container-scale algae farm” by October 2035. Chlorella algae will consume microplastics from tourist wastewater and convert them into aviation-grade biodiesel, reducing overall plastic input from tourism, lowering plankton ingestion, and maintaining Pacific energy flow.",
+                    "Category": "Government & Politics",
+                    "Originality": 1,
+                    "Elaboration": 2
+                },
+                {
+                    "Score Summary": {
+                        "Fluency": 7,
+                        "Flexibility": 2,
+                        "Elaboration": 14,
+                        "Originality": 7,
+                        "Overall": 30
+                    }
+                }
+            ],
+            "Step-4": [
+                {
+                    "Content": "1. Which approach can most rapidly reduce the net microplastic content inside plankton?  ",
+                    "Correctly Written": 1,
+                    "Relevance": 2
+                },
+                {
+                    "Content": "2. Which pathway requires the lowest one-time capital investment?  ",
+                    "Correctly Written": 1,
+                    "Relevance": 0
+                },
+                {
+                    "Content": "3. Which model has the highest potential for rapid global replication and scaling?  ",
+                    "Correctly Written": 1,
+                    "Relevance": 1
+                },
+                {
+                    "Content": "4. Which technology poses the least risk of secondary ecological disturbance to endangered species?  ",
+                    "Correctly Written": 1,
+                    "Relevance": 1
+                },
+                {
+                    "Content": "5. Which solution maintains the lowest full-life-cycle carbon footprint over 15 years?",
+                    "Correctly Written": 1,
+                    "Relevance": 2
+                },
+                {
+                    "Score Summary": {
+                        "Correctly Written": 5,
+                        "Relevance": 6,
+                        "Overall": 11
+                    }
+                }
+            ],
+            "Step-5": [
+                {
+                    "Content": "Solution ID | Criterion 1 | Criterion 2 | Criterion 3 | Criterion 4 | Criterion 5 | Total Score  \n1 | 8 | 6 | 7 | 7 | 6 | 34  \n2 | 6 | 8 | 5 | 6 | 7 | 32  \n3 | 7 | 3 | 6 | 3 | 5 | 24  \n4 | 5 | 5 | 8 | 5 | 4 | 27  \n5 | 4 | 4 | 4 | 4 | 3 | 19  \n6 | 3 | 7 | 3 | 5 | 8 | 26  \n7 | 2 | 2 | 2 | 2 | 2 | 10  \n8 | 1 | 1 | 1 | 1 | 1 | 5  \n\nThe solution with the highest total score is: 1. The solution is: The Ola Kai project chemistry team will deploy glycosylated nanosponges, dispersing 2 tons within a 20 km radius of the Ola Kai mooring point by August 2035. Subsurface robots will recover the flocs and recycle them through the onboard plastic-to-diesel system, directly reducing microplastic ingestion by plankton, lowering the proportion of plastics at the base of the food chain, restoring energy flow, and protecting endangered species.",
+                    "Correctly Used": 4,
+                    "Overall": 4
+                }
+            ],
+            "Step-6": [
+                {
+                    "Content": "The solution with the highest total score is: 1. \nThe solution is: The Ola Kai project chemistry team will deploy glycosylated nanosponges, dispersing 2 tons within a 20 km radius of the Ola Kai mooring point by August 2035. Subsurface robots will recover the flocs and recycle them through the onboard plastic-to-diesel system, directly reducing microplastic ingestion by plankton, lowering the proportion of plastics at the base of the food chain, restoring energy flow, and protecting endangered species.  \n  \nAction Plan:  \n1. Problem Closure  \nNanosponges use a \"molecular magnet\" mechanism to selectively adsorb 0.1–1 mm microplastics, aggregating them into millimeter-scale flocs that cannot be ingested by plankton. Recovered flocs are immediately converted into diesel, achieving a “collect-convert-use” zero-waste cycle, directly reducing the overwhelming proportion of microplastics at the base of the food chain.  \n\n2. Implementation Steps and Timeline  \n   • Phase A – R&D and Validation (Now–Oct 2025): Ola Kai Chemistry Team × MIT Materials Department iterate the third-generation biodegradable nanosponges and complete biotoxicity-degradation tests.  \n   • Phase B – Pilot Demonstration (Nov 2025–Apr 2026): Deploy 100 kg in South Bay, Oahu; 30-day monitoring shows ≥70% reduction of microplastics in plankton.  \n   • Phase C – Scale-up Production (May 2026–Feb 2027): Hawaii biorefinery produces 2 tons per month and establishes freeze-dry packaging chain.  \n   • Phase D – Full Deployment (Mar 2027–Jul 2035): Deploy 2 tons in March, June, September each year, covering a 20 km radius grid; six “Kokua-γ” subsurface robots operate in shifts, producing 400 L/day diesel for self-use.  \n   • Phase E – Monitoring and Iteration (Parallel): Weekly underwater imaging + Raman verification to maintain microplastic concentration <50% of plankton; formula updated every six months.   \n  \n3. Resources and Responsibilities  \n   • Funding: Ola Kai Research $300k + NOAA Innovation Fund $400k + State Green Bonds $300k + Carbon Credit Pre-sale; total ≤ $1M.  \n   • Team: Chemistry team handles materials, MIT provides R&D, NOAA provides monitoring platform, State Environmental Department supervises approvals.  \n\n4. Risks and Contingency  \n   • Nanomaterial leakage: Three passive samplers monitor in real-time; >10 μg/L triggers magnetic recovery nets.  \n   • Robot malfunction: 1:1 spare parts + 48-hour offshore repair; if failure rate >15%, NOAA backup ROVs are deployed.  \n   • Regulatory delays: Suspension during typhoon season; stock maintained at 1.5× safety level.  \n\n5. Impacts and Scaling  \n   • Local: By 2028, microplastic content in plankton decreases by 80%, coral spawning rates increase by 30%.  \n   • Regional: By 2030, open “Nanosponges Sharing Depot” allows replication in Guam, Palau, Tuvalu.  \n   • Global: By 2032, included in IMO Green Shipping Guidelines; long-haul fleets can treat plastics in-transit, establishing a Pacific-wide “food chain firewall.”",
+                    "Relevance": 3,
+                    "Effectiveness": 3,
+                    "Criteria": 4,
+                    "Impact": 4,
+                    "Humaness": 3,
+                    "Development": 8,
+                    "Overall": 25
+                }
+            ],
+            "Total Score": 116
+        },
+        {
+            "Step-1": [
+                {
+                    "Content": "1. The concentration of microplastics may have exceeded the density of plankton by tenfold, disrupting the energy input of the base food chain. This challenge arises from the warning in the scenario that \"water samples still show an alarming amount of plastic particles.\"  ",
+                    "Category": "Environment",
+                    "Originality": 0,
+                    "Elaboration": 1
+                },
+                {
+                    "Content": "2. Subsurface robotic collectors may miss low-velocity eddy zones, creating data gaps and masking local ecological collapse points. This is directly related to the scenario's mention that \"after experimenting with several collection methods,\" weekly weighing is still required, implying sampling limitations.  ",
+                    "Category": "Technology",
+                    "Originality": 1,
+                    "Elaboration": 1
+                },
+                {
+                    "Content": "3. The plastic-to-fuel conversion system may emit nanoscale black carbon particles, which could exacerbate imbalances in ocean surface heat absorption. This challenge stems from the scenario emphasizing \"eliminating the need to return to shore for disposal\" without addressing potential secondary emissions.  ",
+                    "Category": "Technology",
+                    "Originality": 1,
+                    "Elaboration": 1
+                },
+                {
+                    "Content": "4. Endangered species in the northwest islands may face unknown toxicological effects from ingesting micro-fragments of plastics broken down by lasers. The scenario mentions that laser technology \"can dissolve pollutants\" but does not evaluate the byproducts of fragmentation.  ",
+                    "Category": "Environment",
+                    "Originality": 1,
+                    "Elaboration": 1
+                },
+                {
+                    "Content": "5. Adjustments to eco-tourism routes around floating laboratories may transfer visitor pressure to other more fragile reefs. This challenge is directly related to the scenario's note that routes were \"altered to reduce impact\" but without ensuring overall pressure reduction.  ",
+                    "Category": "Recreation",
+                    "Originality": 1,
+                    "Elaboration": 1
+                },
+                {
+                    "Content": "6. Legal exemptions for manufacturers on both sides of the Pacific may cause Hawaiian regional governance to operate in isolation. This challenge is closely related to the scenario's statement that \"environmental regulations have historically been weak or disregarded.\"  ",
+                    "Category": "Law & Justice",
+                    "Originality": 1,
+                    "Elaboration": 1
+                },
+                {
+                    "Content": "7. The efficiency of the plastic-to-diesel system may suddenly decline due to sea spray corrosion, forcing laboratories to rely on land-based resupply. This challenge is implied in the scenario mentioning \"harvesting tons of plastic\" without considering long-term durability.  ",
+                    "Category": "Technology",
+                    "Originality": 1,
+                    "Elaboration": 1
+                },
+                {
+                    "Content": "8. Data protocols among the network of floating labs may be incompatible, hindering multinational collaboration in compiling a comprehensive microplastic hotspot map. This challenge is directly related to the scenario emphasizing \"dividing responsibilities among agencies\" without a unified standard.",
+                    "Category": "Communication",
+                    "Originality": 1,
+                    "Elaboration": 1
+                },
+                {
+                    "Score Summary": {
+                        "Fluency": 8,
+                        "Flexibility": 5,
+                        "Elaboration": 8,
+                        "Originality": 7,
+                        "Overall": 28
+                    }
+                }
+            ],
+            "Step-2": [
+                {
+                    "Content": "Challenge ID: 1. In 2035, in the waters surrounding the Hawaiian Islands, when microplastic concentrations may have exceeded the density of plankton tenfold, threatening the energy input at the base of the food chain, how can we reduce the overwhelming proportion of microplastics at the bottom of the food chain to restore energy flow in the Pacific ecosystem and protect the future of endangered species?  \nTime: 2035\nLocation: Waters surrounding the Hawaiian Islands\nTheme: Microplastic Management and Ecological Restoration",
+                    "Condition Phrase": 2,
+                    "Stem & KVP": 3,
+                    "Purpose": 1,
+                    "FS Parameters": 2,
+                    "Focus": 6,
+                    "Adequacy": 8,
+                    "Overall": 22
+                }
+            ],
+            "Step-3": [
+                {
+                    "Content": "1. The Ola Kai project chemistry team will deploy glycosylated nanosponges, dispersing 2 tons within a 20 km radius of the Ola Kai mooring point by August 2035. Subsurface robots will recover the flocs and recycle them through the onboard plastic-to-diesel system, directly reducing microplastic ingestion by plankton, lowering the proportion of plastics at the base of the food chain, restoring energy flow, and protecting endangered species.  ",
+                    "Category": "Technology",
+                    "Originality": 1,
+                    "Elaboration": 2
+                },
+                {
+                    "Content": "2. Google X Lab and Hawaiian community divers will run a crowdsourced \"photoacoustic unmanned vessel + AR snorkeling goggles\" collection program across the northwest islands by December 2035. Unmanned vessels will map microplastic clouds in real-time using laser sonar, while AR glasses guide divers to precise retrieval points, clearing high-density fragments weekly to reduce microplastic accumulation at the base of the food chain and preserve Pacific ecosystem energy balance.  ",
+                    "Category": "Technology",
+                    "Originality": 2,
+                    "Elaboration": 2
+                },
+                {
+                    "Content": "3. NOAA and Hawaiian Electric will pilot a 2-nautical-mile-diameter \"bubble curtain + photocatalytic net\" system north of Kaua'i by October 2035. Wave-driven pumps will concentrate microplastics, which are then broken down by photocatalytic nets into short-chain acids absorbable by phytoplankton, reducing microplastic dominance on plankton and restoring baseline energy input.  ",
+                    "Category": "Technology",
+                    "Originality": 1,
+                    "Elaboration": 2
+                },
+                {
+                    "Content": "4. SpaceX and a local high school team will launch the CubeSat constellation \"KiloEye\" by July 2035. Weekly scans of the 137 Hawaiian Islands will use hyperspectral data to direct Ola Kai drones for targeted microplastic removal, lowering the risk of plankton mis-ingestion at the source and ensuring Pacific ecosystem energy flow is rebalanced.  ",
+                    "Invalid": "Duplicate — The solution is too similar to another YES solution"
+                },
+                {
+                    "Content": "5. Japan's SpiraNova and the University of Hawai'i will plant 300 \"biopolymer-coated kelp ropes\" off the west coast of the Big Island in Q3 2035. Kelp leaves will adsorb microplastics, and harvested ropes will be processed into high-value composites, directly removing plastics at the base of the food chain and generating revenue while protecting endangered species’ habitats.  ",
+                    "Category": "Technology",
+                    "Originality": 2,
+                    "Elaboration": 2
+                },
+                {
+                    "Content": "6. The Ola Kai project biology team will release living blue-green algae “Plastic Sentinel” strains in a 500-hectare demonstration area off the northwest reef of the main Hawaiian Island by November 2035. These algae continuously secrete degrading enzymes to break down 0.1–1 mm microplastics, reducing plankton ingestion, restoring baseline energy input, and protecting the Pacific ecosystem.  ",
+                    "Category": "Technology",
+                    "Originality": 1,
+                    "Elaboration": 2
+                },
+                {
+                    "Content": "7. MantaSync and the University of Hawai'i will deploy five “body-mounted” manta ray filtration units along the Maui–Ni’ihau route by September 2035. These units capture microplastics in real-time during swimming and ferment them into manta ray body oils. Due to their large feeding area, they significantly dilute plastics at the base of the food chain, reducing pollution at entry points.  ",
+                    "Category": "Technology",
+                    "Originality": 1,
+                    "Elaboration": 2
+                },
+                {
+                    "Content": "8. A local cruise company and the state government will retrofit the first ferry deck in Honolulu Harbor into a “container-scale algae farm” by October 2035. Chlorella algae will consume microplastics from tourist wastewater and convert them into aviation-grade biodiesel, reducing overall plastic input from tourism, lowering plankton ingestion, and maintaining Pacific energy flow.",
+                    "Category": "Government & Politics",
+                    "Originality": 1,
+                    "Elaboration": 2
+                },
+                {
+                    "Score Summary": {
+                        "Fluency": 7,
+                        "Flexibility": 2,
+                        "Elaboration": 14,
+                        "Originality": 9,
+                        "Overall": 32
+                    }
+                }
+            ],
+            "Step-4": [
+                {
+                    "Content": "1. Which approach can most rapidly reduce the net microplastic content inside plankton?  ",
+                    "Correctly Written": 1,
+                    "Relevance": 2
+                },
+                {
+                    "Content": "2. Which pathway requires the lowest one-time capital investment?  ",
+                    "Correctly Written": 1,
+                    "Relevance": 1
+                },
+                {
+                    "Content": "3. Which model has the highest potential for rapid global replication and scaling?  ",
+                    "Correctly Written": 1,
+                    "Relevance": 1
+                },
+                {
+                    "Content": "4. Which technology poses the least risk of secondary ecological disturbance to endangered species?  ",
+                    "Correctly Written": 1,
+                    "Relevance": 2
+                },
+                {
+                    "Content": "5. Which solution maintains the lowest full-life-cycle carbon footprint over 15 years?",
+                    "Correctly Written": 1,
+                    "Relevance": 2
+                },
+                {
+                    "Score Summary": {
+                        "Correctly Written": 5,
+                        "Relevance": 8,
+                        "Overall": 13
+                    }
+                }
+            ],
+            "Step-5": [
+                {
+                    "Content": "Solution ID | Criterion 1 | Criterion 2 | Criterion 3 | Criterion 4 | Criterion 5 | Total Score  \n1 | 8 | 6 | 7 | 7 | 6 | 34  \n2 | 6 | 8 | 5 | 6 | 7 | 32  \n3 | 7 | 3 | 6 | 3 | 5 | 24  \n4 | 5 | 5 | 8 | 5 | 4 | 27  \n5 | 4 | 4 | 4 | 4 | 3 | 19  \n6 | 3 | 7 | 3 | 5 | 8 | 26  \n7 | 2 | 2 | 2 | 2 | 2 | 10  \n8 | 1 | 1 | 1 | 1 | 1 | 5  \n\nThe solution with the highest total score is: 1. The solution is: The Ola Kai project chemistry team will deploy glycosylated nanosponges, dispersing 2 tons within a 20 km radius of the Ola Kai mooring point by August 2035. Subsurface robots will recover the flocs and recycle them through the onboard plastic-to-diesel system, directly reducing microplastic ingestion by plankton, lowering the proportion of plastics at the base of the food chain, restoring energy flow, and protecting endangered species.",
+                    "Correctly Used": 4,
+                    "Overall": 4
+                }
+            ],
+            "Step-6": [
+                {
+                    "Content": "The solution with the highest total score is: 1. \nThe solution is: The Ola Kai project chemistry team will deploy glycosylated nanosponges, dispersing 2 tons within a 20 km radius of the Ola Kai mooring point by August 2035. Subsurface robots will recover the flocs and recycle them through the onboard plastic-to-diesel system, directly reducing microplastic ingestion by plankton, lowering the proportion of plastics at the base of the food chain, restoring energy flow, and protecting endangered species.  \n  \nAction Plan:  \n1. Problem Closure  \nNanosponges use a \"molecular magnet\" mechanism to selectively adsorb 0.1–1 mm microplastics, aggregating them into millimeter-scale flocs that cannot be ingested by plankton. Recovered flocs are immediately converted into diesel, achieving a “collect-convert-use” zero-waste cycle, directly reducing the overwhelming proportion of microplastics at the base of the food chain.  \n\n2. Implementation Steps and Timeline  \n   • Phase A – R&D and Validation (Now–Oct 2025): Ola Kai Chemistry Team × MIT Materials Department iterate the third-generation biodegradable nanosponges and complete biotoxicity-degradation tests.  \n   • Phase B – Pilot Demonstration (Nov 2025–Apr 2026): Deploy 100 kg in South Bay, Oahu; 30-day monitoring shows ≥70% reduction of microplastics in plankton.  \n   • Phase C – Scale-up Production (May 2026–Feb 2027): Hawaii biorefinery produces 2 tons per month and establishes freeze-dry packaging chain.  \n   • Phase D – Full Deployment (Mar 2027–Jul 2035): Deploy 2 tons in March, June, September each year, covering a 20 km radius grid; six “Kokua-γ” subsurface robots operate in shifts, producing 400 L/day diesel for self-use.  \n   • Phase E – Monitoring and Iteration (Parallel): Weekly underwater imaging + Raman verification to maintain microplastic concentration <50% of plankton; formula updated every six months.   \n  \n3. Resources and Responsibilities  \n   • Funding: Ola Kai Research $300k + NOAA Innovation Fund $400k + State Green Bonds $300k + Carbon Credit Pre-sale; total ≤ $1M.  \n   • Team: Chemistry team handles materials, MIT provides R&D, NOAA provides monitoring platform, State Environmental Department supervises approvals.  \n\n4. Risks and Contingency  \n   • Nanomaterial leakage: Three passive samplers monitor in real-time; >10 μg/L triggers magnetic recovery nets.  \n   • Robot malfunction: 1:1 spare parts + 48-hour offshore repair; if failure rate >15%, NOAA backup ROVs are deployed.  \n   • Regulatory delays: Suspension during typhoon season; stock maintained at 1.5× safety level.  \n\n5. Impacts and Scaling  \n   • Local: By 2028, microplastic content in plankton decreases by 80%, coral spawning rates increase by 30%.  \n   • Regional: By 2030, open “Nanosponges Sharing Depot” allows replication in Guam, Palau, Tuvalu.  \n   • Global: By 2032, included in IMO Green Shipping Guidelines; long-haul fleets can treat plastics in-transit, establishing a Pacific-wide “food chain firewall.”",
+                    "Relevance": 3,
+                    "Effectiveness": 3,
+                    "Criteria": 3,
+                    "Impact": 3,
+                    "Humaness": 2,
+                    "Development": 4,
+                    "Overall": 18
+                }
+            ],
+            "Total Score": 117
+        }
+    ]
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Step_Number": "1",
+        "Step_Name": "Step-1: Identify Challenges",
+        "Step_Description": "Please carefully read the future scenario and identify up to eight challenges or problems that are specifically related to the given context within the scenario.",
+        "Step_Output": "Please describe each challenge in a complete sentence, and note the following four requirements:\n1.Write all challenges in the form of declarative sentences.\n2.Use modal verbs such as “might,” “could,” or “should” rather than absolute terms like “will” to indicate uncertainty.\n3.Clearly explain what the challenge is, why it constitutes a challenge, and how it is connected to the future scenario.\n4.Begin each challenge with a number followed by a space, for example: “1. xxx”."
+    },
+    {
+        "Step_Number": "2",
+        "Step_Name": "Step-2: Select an Underlying Problem",
+        "Step_Description": "From the challenges identified in Step 1, determine which one has the most far-reaching impact and is most worthy of being addressed. Then, reformulate it into a clear, focused, and action-oriented core problem statement.",
+        "Step_Output": "Please provide a complete description of the identified underlying problem, including the following five components in one coherent paragraph:\n1.Challenge number: Clearly indicate which challenge from Step 1 has been developed into the underlying problem.\n2.Conditional phrase: Introduce a fact from the future scenario, which serves as the theoretical basis for the identified underlying problem.\n3.Stem + key verb phrase: Use either “How might we…” or “In what ways can we…” as the stem. The key verb phrase should contain one active verb (e.g., increase, enhance, assist, limit), corresponding to what must be done in Step 3. Avoid absolute or overly broad verbs, as well as multiple verbs.\n4.Purpose: Typically expressed with phrases such as “in order to” or “so that” to clarify the intended goal of the key verb phrase.\n5.Future scenario parameters: Include the three parameters of time, location, and theme."
+    },
+    {
+        "Step_Number": "3",
+        "Step_Name": "Step-3: Produce Solutions",
+        "Step_Description": "Based on the underlying problem identified in Step 2, generate up to eight possible solutions.",
+        "Step_Output": "For the final solutions, please follow these guidelines:\n1.State each solution in a complete sentence, ensuring clarity and precision.\n2.Use “will” instead of “might.”\n3.Each proposed solution should address at least the following aspects: Who? What? How? Why? When? Where?\n4.Ensure that each solution is logically aligned with the key verb phrase and the intended purpose of the underlying problem identified in Step 2.\n5.Begin each solution with a number followed by a space, for example: “1. xxx”."
+    },
+    {
+        "Step_Number": "4",
+        "Step_Name": "Step-4: Select Criteria",
+        "Step_Description": "Please create five criteria to evaluate the strengths and weaknesses of the solutions generated in Step 3.",
+        "Step_Output": "When creating each evaluation criterion, please follow these guidelines:\n1.Proper phrasing:1) Include superlative terms where appropriate. 2) Focus on a single dimension per criterion. 3) Indicate the expected direction of evaluation. 4) Present each criterion in the form of a question.\n2.Relevance: Each criterion should be closely related to the underlying problem and provide clear guidance for identifying the most valuable solutions.\n3.Begin each criterion with a number followed by a space, for example: “1. xxx”."
+    },
+    {
+        "Step_Number": "5",
+        "Step_Name": "Step-5: Apply Criteria to Top Solutions",
+        "Step_Description": "Using the five criteria from Step 4, evaluate the eight solutions generated in Step 3 in a matrix (grid) format, in order to identify the most promising solution.",
+        "Step_Output": "Please provide the answers for this step in the following matrix (grid) format:\n```\nSolution ID | Criterion 1 | Criterion 2 | Criterion 3 | Criterion 4 | Criterion 5 | Total Score\n1       |   5    |   7    |   6    |   4    |     8     |  30\n2       |   8    |   6    |   7    |   5    |     7     |  33\n...     |  ...   |  ...   |  ...   |  ...   |    ...    | ...\nHighest-scoring solution ID: <ID>, Solution: <content of the highest-scoring solution>\n```\nRequirements:\n1.For each criterion, all solutions must be scored.\n2.Scores for each criterion should range from 1 to x, where 1 represents the worst-performing solution and x represents the best.\n3.No two solutions may receive the same score under the same criterion; i.e., each column must be a unique permutation of 1 to x.\n4.Provide both the full scoring matrix and the ID and content of the highest-scoring solution."
+    },
+    {
+        "Step_Number": "6",
+        "Step_Name": "Step-6: Develop an Action Plan",
+        "Step_Description": "Based on the highest-scoring, most promising solution selected in Step 5, develop an action plan that details its content and outlines how to implement the chosen solution effectively.",
+        "Step_Output": "Develop the highest-scoring solution selected in Step 5 into a comprehensive action plan. The plan should systematically and thoroughly explain how the underlying problem is addressed, how the solution will be implemented, and how the future scenario will be impacted. Please provide the final action plan in the following format:\nBest Solution ID: # (fill in the solution ID)\nBest Solution Content: (fill in the content of the best solution)\nAction Plan: (full, detailed action plan)"
+    }
+]

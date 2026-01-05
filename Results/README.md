@@ -1,0 +1,3 @@
+This folder contains the final result tables. Table 1 summarizes the scores of 10 models across 10 scenarios for each dimension, while Table 2 reports the average scores of the 10 models across all scenarios. All values are the averages of two human raters. (Team) refers to our proposed TeamLLM condition, and (Single) refers to the Single-LLM condition. 
+
+**We commit to publicly releasing all data upon paper acceptance.** Currently, only the scores for A05_FS10 in Table 1 (Team) are shown, which corresponds to the example presented in the appendix.
