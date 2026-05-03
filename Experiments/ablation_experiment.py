@@ -12,7 +12,7 @@ def run_Ablation(Model_Type, Model_Name, Model_ID, fs, display = 0):
     for step in range(7):
         history = Team.run(step, fs)
 
-    complete_answer(history, name, 'Abla' + Model_ID)
+    complete_answer(history, name, 'D' + Model_ID)
 
 FS_lst = [f"FS{i}" for i in range(5, 6)]
 Model_lst = [
